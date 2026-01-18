@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Material Design Base Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary App Colors -->
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_dark">#1976D2</color>
+    <color name="primary_blue_light">#E3F2FD</color>
+    <color name="secondary_purple">#9C27B0</color>
+    <color name="secondary_purple_dark">#7B1FA2</color>
+    <color name="secondary_purple_light">#E1BEE7</color>
+
+    <!-- Background Colors -->
+    <color name="background_gradient_start">#E8F5E8</color> <!-- Light Green -->
+    <color name="background_gradient_middle">#F3E5F5</color> <!-- Light Purple -->
+    <color name="background_gradient_end">#E1F5FE</color> <!-- Light Blue -->
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_light_gray">#F5F5F5</color>
+    <color name="background_card">#C6DDFA</color> <!-- Pastel Blue -->
+
+    <!-- Bottom Navigation Colors -->
+    <color name="bottom_nav_selected">#D7A2E0</color> <!-- Pastel Purple -->
+    <color name="bottom_nav_unselected">#054561</color> <!-- Dark Blue -->
+    <color name="bottom_nav_background">#83A9C9</color> <!-- Pastel Blue -->
+    <!-- Streak Card Colors -->
+    <color name="streak_attendance_light">#FFCC80</color> <!-- Light Orange -->
+    <color name="streak_attendance_dark">#FF9800</color> <!-- Orange -->
+    <color name="streak_test_light">#90CAF9</color> <!-- Light Blue -->
+    <color name="streak_test_dark">#2196F3</color> <!-- Blue -->
+    <color name="streak_achievement_light">#CE93D8</color> <!-- Light Purple -->
+    <color name="streak_achievement_dark">#9C27B0</color> <!-- Purple -->
+
+    <!-- Card Colors -->
+    <color name="card_background">#C6DDFA</color> <!-- Pastel Blue -->
+    <color name="card_teacher_attendance">#4FC3F7</color> <!-- Light Blue -->
+    <color name="card_teacher_streaming">#BA68C8</color> <!-- Light Purple -->
+    <color name="card_shadow">#33000000</color> <!-- Light Shadow -->
+
+    <!-- Button Colors -->
+    <color name="button_primary">#2196F3</color> <!-- Blue -->
+    <color name="button_primary_pressed">#1976D2</color> <!-- Darker Blue -->
+    <color name="button_secondary">#9C27B0</color> <!-- Purple -->
+    <color name="button_danger">#F44336</color> <!-- Red -->
+    <color name="button_success">#4CAF50</color> <!-- Green -->
+    <color name="button_warning">#FF9800</color> <!-- Orange -->
+
+    <!-- FAB Colors -->
+    <color name="fab_background" tools:ignore="DuplicateDefinition">#D6A5B3</color> <!-- Pastel Pink -->
+    <color name="fab_pressed">#C48B9F</color> <!-- Darker Pink -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color> <!-- Dark Gray -->
+    <color name="text_secondary">#757575</color> <!-- Medium Gray -->
+    <color name="text_hint">#9E9E9E</color> <!-- Light Gray -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_accent">#2196F3</color> <!-- Blue -->
+    <color name="text_error">#F44336</color> <!-- Red -->
+
+    <!-- Status Colors -->
+    <color name="status_success">#4CAF50</color> <!-- Green -->
+    <color name="status_warning">#FF9800</color> <!-- Orange -->
+    <color name="status_error">#F44336</color> <!-- Red -->
+    <color name="status_info">#2196F3</color> <!-- Blue -->
+
+    <!-- Date Selection Colors -->
+    <color name="date_selected">#BBDEFB</color> <!-- Light Blue -->
+    <color name="date_unselected">#EBD9D9</color> <!-- Light Pink -->
+
+    <!-- Schedule Colors -->
+    <color name="schedule_math">#FF8A65</color> <!-- Light Orange -->
+    <color name="schedule_physics">#81C784</color> <!-- Light Green -->
+    <color name="schedule_chemistry">#FFB74D</color> <!-- Light Amber -->
+    <color name="schedule_english">#F48FB1</color> <!-- Light Pink -->
+    <color name="schedule_biology">#A1C181</color> <!-- Light Green -->
+    <color name="schedule_history">#BCAAA4</color> <!-- Light Brown -->
+    <color name="schedule_geography">#80DEEA</color> <!-- Light Cyan -->
+
+    <!-- Recording/Video Colors -->
+    <color name="video_progress_bg">#96DDF2</color> <!-- Light Blue -->
+    <color name="video_progress_fill">#FF0000</color> <!-- Red -->
+    <color name="video_overlay">#80000000</color> <!-- Semi-transparent Black -->
+
+    <!-- Test/Quiz Colors -->
+    <color name="quiz_correct">#4CAF50</color> <!-- Green -->
+    <color name="quiz_incorrect">#F44336</color> <!-- Red -->
+    <color name="quiz_neutral">#9E9E9E</color> <!-- Gray -->
+
+    <!-- Chat Colors -->
+    <color name="chat_user_bubble">#E3F2FD</color> <!-- Light Blue -->
+    <color name="chat_bot_bubble">#F3E5F5</color> <!-- Light Purple -->
+    <color name="chat_background">#FAFAFA</color> <!-- Very Light Gray -->
+
+    <!-- AppBar Colors -->
+    <color name="appbar_background">#E1BEE7</color> <!-- Pastel Purple -->
+    <color name="appbar_text">#000000</color> <!-- Black -->
+
+    <!-- Attendance Colors -->
+    <color name="attendance_present">#4CAF50</color> <!-- Green -->
+    <color name="attendance_absent">#F44336</color> <!-- Red -->
+    <color name="attendance_late">#FF9800</color> <!-- Orange -->
+
+    <!-- Gradient Colors for Cards -->
+    <color name="gradient_blue_start">#64B5F6</color>
+    <color name="gradient_blue_end">#1976D2</color>
+    <color name="gradient_purple_start">#BA68C8</color>
+    <color name="gradient_purple_end">#7B1FA2</color>
+    <color name="gradient_orange_start">#FFB74D</color>
+    <color name="gradient_orange_end">#F57C00</color>
+    <color name="gradient_green_start">#81C784</color>
+    <color name="gradient_green_end">#388E3C</color>
+
+    <!-- Transparency Colors -->
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent_black">#80000000</color>
+    <color name="semi_transparent_white">#80FFFFFF</color>
+
+    <!-- Border Colors -->
+    <color name="border_light">#E0E0E0</color>
+    <color name="border_medium">#BDBDBD</color>
+    <color name="border_dark">#757575</color>
+
+    <!-- Divider Colors -->
+    <color name="divider">#E0E0E0</color>
+    <color name="divider_dark">#424242</color>
+    <!-- Add these if missing in colors.xml -->
+
+
+    <!-- Ripple Effect Colors -->
+    <color name="ripple_light">#1F000000</color>
+    <color name="ripple_dark">#1FFFFFFF</color>
+    <color name="background_light_blue">#E3F2FD</color>
+    <color name="divider_light">#E0E0E0</color>
+
+</resources>
