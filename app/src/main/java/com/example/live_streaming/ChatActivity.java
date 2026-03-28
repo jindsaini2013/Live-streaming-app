@@ -51,7 +51,7 @@ public class ChatActivity extends AppCompatActivity {
     private String currentQuery = "";
 
     // REPLACE WITH YOUR ACTUAL GEMINI API KEY
-    private static final String GEMINI_API_KEY = "AIzaSyD4NkpMT2LUBgDaDzcsScc_b5-tkpkSmnY"; // Your API key here
+    private static final String GEMINI_API_KEY = ""; // Your API key here
     // Update this constant at the top of your class:
     private static final String GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent" ;
     private static final String TAG = "ChatActivity";
